@@ -19,39 +19,40 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎓 About Me</h3>
+<h3>🎓 <span style="font-size:90%">About Me</span></h3>
 <ul style="font-size:85%">
-  <li>⚡ <strong>Electronic & Telecommunication Engineer</strong> (Undergraduate at University of Moratuwa, Sri Lanka).</li>
-  <li>📡 Deeply engaged in <strong>Signal Processing & Software Defined Radio (SDR)</strong> with GNU Radio, BPSK/QPSK modulation, and DSP block design.</li>
-  <li>🛡️ Developer of <strong>Network Security & Sentinel Systems</strong> focused on packet analysis, SPAN/Mirroring, and RF air-sniffing.</li>
-  <li>⚙️ Passionate about <strong>Hardware Engineering</strong>, including PCB design (audio/circuits), active noise-canceling modules, and FPGA logic (Verilog/ModelSim).</li>
-  <li>🌐 Founder/Creator of <strong>EduSupport (දිට්වා)</strong> — leveraging technology for humanitarian educational impact.</li>
+  <li>Electronic & Telecommunication Engineering undergraduate</li>
+  <li>University of Moratuwa, Sri Lanka</li>
+  <li><em>Passionate about bridging theory with real-world innovation</em></li>
 </ul>
 
-<h3>🔧 Technical Skills</h3>
+<h3>🔧 <span style="font-size:90%">Technical Skills</span></h3>
 <ul style="font-size:85%">
-  <li><strong>Signal Processing & SDR:</strong> GNU Radio, MATLAB, RF Sniffing, BPSK/QPSK, DSP</li>
-  <li><strong>Hardware & Digital Logic:</strong> PCB Design & Simulation, Verilog / FPGA, Audio Electronics</li>
-  <li><strong>Networking & Security:</strong> Packet Analysis, Wireshark, Scapy, Network Sentinel Design</li>
-  <li><strong>Programming & Full-Stack:</strong> Python, C/C++, Node.js, Supabase, Cloud Workflows</li>
+  <li><strong>Signal Processing & MATLAB</strong></li>
+  <li><strong>Circuit Design & Simulation</strong></li>
+  <li><strong>Networking & Telecom</strong></li>
+  <li><strong>Programming</strong></li>
+  <li><strong>Machine Learning & AI</strong></li>
+  <li><strong>Software Development</strong></li>
 </ul>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🌱 Current Focus Areas</h3>
+<h3>🌱 <span style="font-size:90%">Current Interests</span></h3>
 <ul style="font-size:85%">
-  <li><strong>SDR & Wireless:</strong> Custom Python GNU Radio blocks & signal synchronization</li>
-  <li><strong>Network Diagnostics:</strong> Passive traffic monitoring and security packet inspection</li>
-  <li><strong>FPGA & Embedded Systems:</strong> High-speed protocol verification & hardware communication</li>
-  <li><strong>AI & Applied ML:</strong> Computer vision, recommender engines, and EdTech platforms</li>
+  <li>Machine Learning</li>
+  <li>Network Security</li>
+  <li>Image Processing</li>
+  <li>Full‑stack development (Supabase, Node.js, Cloud)</li>
+  <li>AI in Education & Recommender Systems</li>
 </ul>
 
-<h3>⚡ Beyond Academics</h3>
+<h3>⚡ <span style="font-size:90%">Beyond Academics</span></h3>
 <ul style="font-size:85%">
-  <li>Exploring software team leadership & agile engineering workflows</li>
-  <li>Debugging complex cross-layer hardware/software systems</li>
-  <li>Translating engineering principles into high-impact open solutions</li>
+  <li>Exploring software team management</li>
+  <li>Debugging workflows</li>
+  <li>Turning technical knowledge into impactful solutions</li>
 </ul>
 
 </td>
